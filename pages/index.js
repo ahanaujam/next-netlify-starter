@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Download more music at <code>https://cutt.ly/Cloud9</code>
+          Download more music at <code><a href="https://cutt.ly/Cloud9" target="_blank" rel="noopener noreferrer">Cloud9Play.com</a>
+</code>
         </p>
   
       </main>
