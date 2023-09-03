@@ -13,10 +13,9 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Download more music at <code>https://cutt.ly/Cloud9</code>
         </p>
-    <a href="https://cloud9.com.ng" target="_blank" rel="noopener noreferrer">Download more trending Music at Cloud9Play.com</a>
-
+  
       </main>
 
       <Footer />
