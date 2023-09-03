@@ -15,6 +15,8 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+    <a href="https://cloud9.com.ng" target="_blank" rel="noopener noreferrer">Download more trending Music at Cloud9Play.com</a>
+
       </main>
 
       <Footer />
