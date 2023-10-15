@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my Cloud9Play!" />
         <p className="description">
-          Download more music at <code><a href="http://www.youtube.com/redirect?q=https%3A%2F%2Fcloud9.com.ng%2F" target="_blank" rel="noopener noreferrer">Cloud9Play.com</a></code>
+          Download more music at <code><a href="http://www.youtube.com/redirect?q=https%3A%2F%2Fcloud9.com.ng%2F" target="_blank" rel="noopener noreferrer">Cloud9Play.com</a>
 <a href="http://www.youtube.com/redirect?event=channel_description&q=https%3A%2F%2Fcloud9.com.ng%2F" target="_blank" rel="noopener noreferrer">Cloud9Play.com</a>
 <a href="https://9javibesnews.wixsite.com/news/post/wizkid-dishes-out-yet-another-brand-new-single-no-stress" target="_blank" rel="noopener noreferrer">Cloud9Play.com</a>
 <a href="http://t.me/iv?url=https%3A%2F%2Fcloud9.com.ng" target="_blank" rel="noopener noreferrer">Cloud9Play.com</a>
